@@ -1,7 +1,7 @@
 ----------------------------
 		SETUP
 ----------------------------
-1. Download the zip file and extract it to a folder
+1. Clone this Git Repository to your local storage
 2. Open Eclipse(or any other IDE)
 3. Select Import projects
 4. Select Maven
